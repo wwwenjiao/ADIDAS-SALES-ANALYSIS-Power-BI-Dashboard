@@ -32,8 +32,8 @@ Support data-driven decisions by analyzing:
 ---
 
 ## 🛠 Tools Used
-Power BI | Power Query | DAX | Data Modeling
-excel
+- Power BI | Power Query | DAX | Data Modeling
+- Excel
 
 ---
 
